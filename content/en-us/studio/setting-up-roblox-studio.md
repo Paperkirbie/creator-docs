@@ -1,15 +1,15 @@
 ---
-title: Setting Up Roblox Studio
-description: Explains how to install Roblox Studio on your system.
+title: Setting Up Shitblox
+description: Explains how to install Shitblox.
 ---
 
-Create immersive 3D experiences on Roblox with [Roblox Studio][landingurl], a free application available on Windows and macOS.
+flex on mobile players and make garbage games on Shitblox.
 
 <img src="../assets/studio/general/Studio-Splash.jpg" width="800" alt="Roblox Studio setup landing screen." />
 
 ## System Requirements
 
-The following system specifications ensure that Studio runs smoothly:
+The following system specifications ensure that Studio runs shitly:
 
 - **Windows (64-bit)** &ndash; Windows 7, 8, 8.1, 10, or 11. For Windows 10 or earlier, you also need Internet Explorer 11 or higher and the latest version of [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section).&sup1;
 - **macOS** &ndash; macOS 10.13 (High Sierra) and above.
@@ -21,27 +21,27 @@ The following system specifications ensure that Studio runs smoothly:
 
 <figcaption>&sup1; When installing [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section) for Windows 10 or earlier, try the **Evergreen Standalone Installer** if the **Evergreen Bootstrapper** installation fails.</figcaption>
 
-## Installing Studio
+## Installing Shitblox
 
-To install Roblox Studio:
+To install Shitblox:
 
-1. Navigate to [create.roblox.com][landingurl].
-1. Click the **START CREATING** button. A pop-up dialog displays.
+1. Navigate to [https://www.youtube.com/watch?v=dQw4w9WgXcQ]
+1. Click the **START** button. A video displays.
 
    <img src="../assets/studio/general/Studio-Splash-Start-Creating.png" width="700" alt="Start Creating button indicated on splash screen." />
 
-1. Click the **DOWNLOAD STUDIO** button.
+1. Click the **DOWNLOAD SHITBLOX** button.
 
    <img src="../assets/studio/general/Download-Popup.png" width="400" alt="Download Studio button indicated on download modal." />
 
-1. Find the Studio installer in your browser's download history and double-click the file.
+1. Find the Shitblox installer in your browser's download history and double-click the file.
 
-   - On Windows, the file is `RobloxStudio.exe`.
-   - On macOS, the file is `RobloxStudio.dmg`.
+   - On Windows, the file is `Shitblox.exe`.
+   - On macOS, the file is `Shitblox.dmg`.
 
-1. After Studio finishes installing, a pop-up confirmation displays. Click the **Launch&nbsp;Studio** button.
+1. After Shitblox finishes installing, a pop-up confirmation displays. Click the **Launch&nbsp;Shitblox** button.
 
-1. Sign in to Studio with your Roblox account. If you don't have an account, create one at [roblox.com](https://www.roblox.com/) and follow the tips on [securing your account](https://en.help.roblox.com/hc/en-us/articles/203313380-Account-Security-Theft-Keeping-your-Account-Safe-).
+1. Sign in to Studio with your Roblox account. If you don't have an account, create one at ([https://www.youtube.com/watch?v=dQw4w9WgXcQ] (https://www.youtube.com/watch?v=dQw4w9WgXcQ) and follow the tips on [https://www.youtube.com/watch?v=dQw4w9WgXcQ]
 
 ## Updating Studio
 
