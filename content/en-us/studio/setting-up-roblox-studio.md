@@ -1,15 +1,15 @@
 ---
-title: Setting Up Roblox Studio
-description: Explains how to install Roblox Studio on your system.
+title: Setting up Shitblox
+description: fuck you bitch.
 ---
 
-Create immersive 3D experiences on Roblox with [Roblox Studio][landingurl], a free application available on Windows and macOS.
+you suck because you are a tablet player >:).
 
 <img src="../assets/studio/general/Studio-Splash.jpg" width="800" alt="Roblox Studio setup landing screen." />
 
-## System Requirements
+## System condoms
 
-The following system specifications ensure that Studio runs smoothly:
+The following system specifications ensure that Studio runs shitly:
 
 - **Windows (64-bit)** &ndash; Windows 7, 8, 8.1, 10, or 11. For Windows 10 or earlier, you also need Internet Explorer 11 or higher and the latest version of [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section).&sup1;
 - **macOS** &ndash; macOS 10.13 (High Sierra) and above.
@@ -21,16 +21,16 @@ The following system specifications ensure that Studio runs smoothly:
 
 <figcaption>&sup1; When installing [WebView2](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section) for Windows 10 or earlier, try the **Evergreen Standalone Installer** if the **Evergreen Bootstrapper** installation fails.</figcaption>
 
-## Installing Studio
+## Installing Shitblox
 
-To install Roblox Studio:
+To install Shitblox:
 
-1. Navigate to [create.roblox.com][landingurl].
-1. Click the **START CREATING** button. A pop-up dialog displays.
+1. Navigate to [https://www.youtube.com/watch?v=dQw4w9WgXcQ]
+1. Click the **Play** button. A video plays.
 
    <img src="../assets/studio/general/Studio-Splash-Start-Creating.png" width="700" alt="Start Creating button indicated on splash screen." />
 
-1. Click the **DOWNLOAD STUDIO** button.
+1. Click the **DOWNLOAD SHITBLOX** button.
 
    <img src="../assets/studio/general/Download-Popup.png" width="400" alt="Download Studio button indicated on download modal." />
 
